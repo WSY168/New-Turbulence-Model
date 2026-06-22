@@ -1,6 +1,6 @@
 # New Turbulence Model
 
-Data and materials availability.
+Data availability.
 
 ## Data Availability
 
