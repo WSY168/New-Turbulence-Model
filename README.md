@@ -4,4 +4,4 @@ Data and materials availability.
 
 ## Data Availability
 
-- `raw_data/` — Raw experimental and simulation data
+- `raw_data/` — Raw experimental data
