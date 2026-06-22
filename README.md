@@ -1,5 +1,7 @@
 # New Turbulence Model
 
-Data availability.
+Data and materials availability.
 
-## Repository Structure
+## Data Availability
+
+- `raw_data/` — Raw experimental and simulation data
